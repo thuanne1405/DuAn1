@@ -22,6 +22,7 @@ public class DbHelper extends SQLiteOpenHelper {
 
         // comment
         // anh yêu tất cả các em
+        // hi
 
     }
 

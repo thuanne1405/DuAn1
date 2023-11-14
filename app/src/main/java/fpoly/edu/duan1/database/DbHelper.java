@@ -19,6 +19,7 @@ public class DbHelper extends SQLiteOpenHelper {
         db.execSQL(tHoaDon);
         String tHoaDonChiTiet = "CREATE TABLE HOADONCHITIET(mahoadonchitiet integer primary key autoincrement, mahoadon integer references HOADON(mahoadon), masanpham integer references SANPHAM(masanpham),soluongmua integer, tongtien integer)";
         db.execSQL(tHoaDonChiTiet);
+        // a
 
     }
 

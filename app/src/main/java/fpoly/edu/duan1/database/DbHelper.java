@@ -21,6 +21,10 @@ public class DbHelper extends SQLiteOpenHelper {
         db.execSQL(tHoaDonChiTiet);
         // a
 
+        // comment
+        // anh yêu tất cả các em
+        // hi
+
     }
 
     @Override

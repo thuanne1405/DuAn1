@@ -21,6 +21,7 @@ public class DbHelper extends SQLiteOpenHelper {
         db.execSQL(tHoaDonChiTiet);
 
         // comment
+        // anh yêu tất cả các em
 
     }
 
